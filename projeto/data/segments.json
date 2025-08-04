@@ -1,0 +1,21 @@
+{
+  "streaming": {
+    "info": "Serviço de streaming de vídeo",
+    "price_range": [10, 50],
+    "default_price": 25,
+    "segments": {
+      "estudante": {
+        "info": "Consumidores jovens com alta sensibilidade a preço",
+        "params": {"a": 120, "b": 2}
+      },
+      "familia": {
+        "info": "Pacotes familiares",
+        "params": {"a": 200, "b": 3}
+      },
+      "executivo": {
+        "info": "Profissionais com baixa sensibilidade a preço",
+        "params": {"a": 80, "b": 1}
+      }
+    }
+  }
+}
