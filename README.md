@@ -75,19 +75,19 @@ O navegador abrirá automaticamente em http://localhost:8501.
 - Insights automáticos para precificação
 
 📷 Exemplo de Uso
-Escolha cenário e segmento.
+- Escolha cenário e segmento.
 
-Ajuste o preço com o slider.
+- Ajuste o preço com o slider.
 
 Observe:
 
-Alterações na curva de demanda
+- Alterações na curva de demanda
 
-Alterações na curva de receita
+- Alterações na curva de receita
 
-Recomendações estratégicas automáticas
+- Recomendações estratégicas automáticas
 
-Compare diferentes segmentos no mesmo preço.
+- Compare diferentes segmentos no mesmo preço.
 
 📌 Observações
 Se houver erro relacionado a ExecutionPolicy ao ativar o venv, utilize CMD (não PowerShell).
