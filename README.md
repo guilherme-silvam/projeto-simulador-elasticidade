@@ -96,3 +96,5 @@ Caso queira rodar sem ativar venv:
 pip install -r requirements.txt
 python -m streamlit run app.py
 
+## Site
+https://projeto-simulador-elasticidade-x3ykhupmrphdltkp8yz7js.streamlit.app/#visualizacoes
